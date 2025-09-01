@@ -1,0 +1,11 @@
+{
+  "name": "nds-stripe-backend",
+  "version": "1.0.0",
+  "main": "api/create-checkout.js",
+  "scripts": {
+    "start": "node api/create-checkout.js"
+  },
+  "dependencies": {
+    "stripe": "^12.0.0"
+  }
+}
